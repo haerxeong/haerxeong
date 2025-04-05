@@ -1,6 +1,7 @@
 <div align="center">
 
-## Haeryeong Lee (@haerxeong)
+## I'm Haeryeong Lee (@haerxeong)
+(՞ . .՞)𓈒𓂂𓏸♡
 
 ![Hits](https://hits.sh/github.com/haerxeong.svg?style=social)
 
