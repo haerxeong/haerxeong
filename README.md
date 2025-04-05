@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 👋 안녕하세요, 이해령입니다 (@haerxeong)
+
+# 👋 Hi, I’m Haeryeong Lee (@haerxeong)
 
 <p>
   <a href="https://github.com/haerxeong"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 ```
-💻 한국항공대학교 소프트웨어학과 3학년 재학 중 (2023~)  
-🌱 백엔드 개발자를 꿈꾸며 성장하고 있습니다
-✨ 클라우드 인프라와 서비스 기획에도 관심이 많습니다
+💻 Currently a 3rd-year Software Engineering student at Korea Aerospace University (2023~)
+🌱 Aspiring backend developer, passionate about learning and growth
+✨ Interested in cloud infrastructure and DevOps
 ```
 
 ## 🛠️ Tech Stack
