@@ -60,5 +60,5 @@
   <a href="https://solved.ac/haerxeong">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haeryeong" alt="solved.ac 프로필" height="150"/>
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=haeryeong&theme=coral" height="150"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=haeryeong&theme=warm" height="150"/>
 </div>
