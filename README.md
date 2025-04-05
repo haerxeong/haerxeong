@@ -7,14 +7,14 @@
 
 </div>
 
-#### About Me
+#### 🤍 About Me
 ```
 💻 Currently a 3rd-year Software Engineering student at Korea Aerospace University (2023~)
 🌱 Aspiring backend developer, passionate about learning and growth
 ✨ Interested in cloud infrastructure and DevOps
 ```
 
-#### Tech Stack
+#### 🤍 Tech Stack
 
 ##### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,14 +45,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-#### GitHub Stats
+#### 🤍 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=haerxeong&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haerxeong&layout=compact" height="150"/>
 </div>
 
-#### Algorithm Practice
+#### 🤍 Algorithm Practice
 
 <div align="left">
   <a href="https://solved.ac/haerxeong">
